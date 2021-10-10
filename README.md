@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Julia-Shu
 - 👀 I’m interested in FrontEnd Developing
 - 🌱 I’m currently learning JavaScript, TypeScript, Angular
-- 💞️ I’m looking to collaborate, because I need a lot of help with understanding and practical skills. 
+- 💞️ I’m looking to collaborate. 
 - 📫 How to reach me: strybunochka@gmail.com
 
 <!---
